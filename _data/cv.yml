@@ -14,9 +14,9 @@
     - title: PhD Candidate in Economics
       institution: Laval University, Canada
       year: Expected in Dec 2022
-      description: 
+      description:
          - Three essays in Microeconometrics and Public policies with a focus on incentives effects, excess burden of taxation and post-secondary wage disparities.
-         - Adivisor Bruce Shearer, Co-advisor  Bernard Fortin
+         - Advisor Bruce Shearer, Co-advisor  Bernard Fortin
     - title: M.Sc.  in Economics and Statistics
       institution: Ecole Nationale de la Statistique et de l'Analyse Economique (ENSAE), Senegal
       year: 2015
@@ -58,12 +58,12 @@
 
     - title: Economist (Intern)
       institution: Ministry of Finance and Economy, Bénin
-      year: 2012     
+      year: 2012
 
-    
-        
 
-  
+
+
+
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
     #   year: 1917-1933
@@ -88,13 +88,13 @@
 #   type: nested_list
 #   contents:
 #     - title: Research papers
-#       items: 
+#       items:
 #       - "Incentives, productivity and the excess burden of taxation : Evidence from a field experiment, 2022 (with Bruce Shearer)."
 #       - "Workers' responses to piece rate reductions and increases : Evidencefrom a Field Experiment, 2022 (with Bruce Shearer)."
 #       - "Discontinuities in schooling and wage gap, 2022 (with Bernard Fortin)."
 #       # - "Collusion in public auctions : The case of snow removal contracts in Quebec, with Bruce Shearer and Claude Fluet"
 #     - title:  Policy  papers
-#       items: 
+#       items:
 #       - "Strengthening multi-country evidence of COVID-19 on Poverty and Inequality impact and the role of Social Protection, with Tiberti et al. (2021), UNICEF."
 #       - "Impact of the COVID-19 pandemic on poverty in MENA countries: Focus on child poverty (2021), Partnership for Economic Policy."
 #       - "The Gambia : A Look at Agriculture, with Rose Mungai (2019), World Bank Group."
@@ -106,29 +106,29 @@
   type: time_table
   contents:
     - year: 2022
-      institution: 
-        - Winner of the best presentation at la journée des étudiants du Centre de Recherche sur les risques, les enjeux économiques et les politiques publiques (CRREP) 
+      institution:
+        - Winner of the best presentation at la journée des étudiants du Centre de Recherche sur les risques, les enjeux économiques et les politiques publiques (CRREP)
     - year: 2021
-      institution: 
-        - Scholarship from the Quebec Interuniversity Centre for Social Statistics (QICSS)   
+      institution:
+        - Scholarship from the Quebec Interuniversity Centre for Social Statistics (QICSS)
     - year: 2019-2021
-      institution: 
+      institution:
         - Scolarship of Excellence from the Fonds de Recherche du Québec - Société et culture
     - year: 2018
-      institution: 
+      institution:
         - Scholarship of Excellence from the Centre de Recherche sur les risques, les enjeux économiques et les politiques publiques (CRREP)
     - year: 2016-2018
-      institution: 
+      institution:
         - Ph.D. Scholarship of Excellence from the Faculté des Sciences Sociales of Université Laval
     - year: 2009-2012
-      institution: 
+      institution:
         - Undergraduate Scholarship of Excellence of the Government of Bénin
 
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
 #     - title: Topic 1.
-#       items: 
+#       items:
 #         - Description 1.
 #         - Description 2.
 #     - title: Topic 2.

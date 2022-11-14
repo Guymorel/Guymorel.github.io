@@ -32,11 +32,11 @@ and implementation of effective economic policies.
 </p>
 
 <p align="justify">
-I also work on national representative households' surveys to address poverty and inequality questions in developping countries.
+I also work on national representative household surveys to address poverty and inequality questions in developing countries.
 </p>
 
 <p align="justify">
-You can reach me at <b style="color:purple">guymorel2(at)yahoo.fr</b> or <b style="color:purple">guy-morel-kossivi.amouzou-agbe.1(at)ulaval.ca</b>.
+You can reach me at <a href = "mailto: guymorel2@yahoo.fr"> guymorel2@yahoo.fr</a> or <a href = "mailto: guy-morel-kossivi.amouzou-agbe.1@ulaval.ca"> guy-morel-kossivi.amouzou-agbe.1@ulaval.ca</a>.
 </p>
 
 
