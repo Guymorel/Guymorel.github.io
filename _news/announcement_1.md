@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-11-05
 inline: true
 ---
 
-A simple inline announcement.
+I presented my paper `Incentives, Incentives, productivity and the excess burden of taxation: Evidence from a field experiment` (written jointly with Bruce Shearer) at the 2022 [Canadian Public Economic Group (CPEG) conference](https://www.cpeg.ca/conferences/2022-concordia-university/).

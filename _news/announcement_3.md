@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-07-01
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I am excited to work with the [Poverty and Equity Global Practice of the World Bank](https://www.worldbank.org/en/topic/poverty) on the Global Monitoring Database on poverty, shared prosperity, labor, education and other relevant socio-demographic indicators.
