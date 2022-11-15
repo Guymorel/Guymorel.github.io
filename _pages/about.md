@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <p align="justify">
-I am a Ph.D. candidate in economics at <a href="https://www.fss.ulaval.ca/economique" target="_blank">Laval University</a>. My area of research involves micro-econometrics, labor economics, development economics and public economics.
+I am a Ph.D. candidate in economics at <a href="https://www.fss.ulaval.ca/economique" target="_blank">Laval University</a>. My area of research involves <b> micro-econometrics, labor economics, development economics and public economics</b>.
 </p>
 
 <p align="justify">
