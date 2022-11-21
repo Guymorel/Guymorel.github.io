@@ -1,11 +1,12 @@
 ---
 layout: post
-date: 2022-10-15
+date: 2022-01-14
 inline: true
 ---
 
-I am excited to work with the [Social Protection and Jobs (SPJ) Global Practice of the World Bank](https://www.worldbank.org/en/topic/socialprotection) on the [Atlas of Social Protection Indicators of Resilience and Equity (ASPIRE)](https://www.worldbank.org/en/data/datatopics/aspire).  
+<!-- I am excited to work with the [Social Protection and Jobs (SPJ) Global Practice of the World Bank](https://www.worldbank.org/en/topic/socialprotection) on the [Atlas of Social Protection Indicators of Resilience and Equity (ASPIRE)](https://www.worldbank.org/en/data/datatopics/aspire).   -->
 
+I won the best presentation at la Journée des étudiants du Centre de Recherche sur les risques, les enjeux économiques et les politiques publiques (CRREP).
 
 <!-- ---
 layout: post
